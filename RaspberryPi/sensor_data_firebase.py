@@ -41,15 +41,14 @@ if cursor.fetchone() is None:
 
 # Firebase configuration
 firebase_config = {
-    "apiKey": "AIzaSyBHxe48Z2xCDF3UZOR5DOWcXfdxoMvdeaE",
-    "authDomain": "irrigation-intelligente-b8c1b.firebaseapp.com",
-    "databaseURL": "https://irrigation-intelligente-b8c1b-default-rtdb.europe-west1.firebasedatabase.app",
-    "projectId": "irrigation-intelligente-b8c1b",
-    "storageBucket": "irrigation-intelligente-b8c1b.appspot.com",
-    "messagingSenderId": "1092335549244",
-    "appId": "1:1092335549244:web:2eed7b0e30fc98f6b23c39",
-    "measurementId": "G-9GD7H2V917"
-
+    "apiKey": "***",
+    "authDomain": "***",
+    "databaseURL": "***",
+    "projectId": "***",
+    "storageBucket": "***",
+    "messagingSenderId": "***",
+    "appId": "***",
+    "measurementId": "***"
 }
 
 # Initialize Firebase
