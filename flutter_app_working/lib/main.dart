@@ -12,13 +12,12 @@ void main() async {
 //await Firebase.initializeApp();
   await Firebase.initializeApp(
     options: const FirebaseOptions(
-      apiKey: "AIzaSyBHxe48Z2xCDF3UZOR5DOWcXfdxoMvdeaE",
-      appId: "1:1092335549244:web:2eed7b0e30fc98f6b23c39",
-      messagingSenderId: "1092335549244",
-      databaseURL:
-          "https://irrigation-intelligente-b8c1b-default-rtdb.europe-west1.firebasedatabase.app",
-      projectId: "irrigation-intelligente-b8c1b",
-      storageBucket: "irrigation-intelligente-b8c1b.appspot.com",
+      apiKey: "***",
+      appId: "***",
+      messagingSenderId: "***",
+      databaseURL: "***",
+      projectId: "***",
+      storageBucket: "***",
     ),
   );
   runApp(const MyApp());
